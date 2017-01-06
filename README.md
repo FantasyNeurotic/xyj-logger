@@ -5,7 +5,7 @@
 ####使用
 ```js
 const Xlog = require('xyj-logger');
-const logger = Xlog.Logger(__filename)
+const logger = Xlog.Logger(__filename); //此处可传自定义字符串代替__filename
 logger.error('这是一个错误');
 logger.warn('这是一个警告');
 logger.info('这是一个信息');

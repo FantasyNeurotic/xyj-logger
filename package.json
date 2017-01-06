@@ -1,0 +1,29 @@
+{
+  "name": "xyj-logger",
+  "version": "0.0.1",
+  "description": "logger",
+  "main": "index.js",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "moment": "^2.17.1",
+    "util": "^0.10.3",
+    "winston": "^2.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xunyijia/xyj-logger.git"
+  },
+  "keywords": [
+    "logger"
+  ],
+  "author": "jy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xunyijia/xyj-logger/issues"
+  },
+  "homepage": "https://github.com/xunyijia/xyj-logger#readme"
+}
